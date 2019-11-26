@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/briworkman/node-crash-course/issues"
   },
-  "homepage": "https://github.com/briworkman/node-crash-course#readme"
+  "homepage": "https://github.com/briworkman/node-crash-course#readme",
+  "dependencies": {
+    "uuid": "^3.3.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.1"
+  }
 }
